@@ -27,9 +27,8 @@ Durch Texteingabe kann die Liste weiter gefiltert werden, z.B.
 ![](screenshot-3.png)
 
 ## Favoriten verwalten
-Stationen können als Favorit gespeichert werden. Dann erscheinen sie sofort nach Eingabe von `mvv` ohne einen Suchtext einzugeben.
+Stationen können als Favorit gespeichert werden. Dann erscheinen sie sofort nach Eingabe von `mvv` ohne einen Suchtext einzugeben. Dazu wie folgt vorgehen:
 
-### Favorit hinzufügen
 1. Station suchen
 2. Mit <kbd>CMD</kbd> + <kbd>Enter</kbd> auswählten (anstelle von nur <kbd>Enter</kbd>)
 
