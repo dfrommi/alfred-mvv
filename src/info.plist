@@ -112,7 +112,7 @@
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>MVG Abfahrtsmonitor</string>
+	<string>MVV Abfahrtsmonitor</string>
 	<key>objects</key>
 	<array>
 		<dict>
